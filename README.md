@@ -2,7 +2,7 @@
 Короткая дискография (только альбомы) и полная (альбомы + треки) сохраняются в json и xlsx файлы.
 
 Для работы с Spotify Web API и получения токена авторизации требуются Client ID и Client Secret, значения указываются в config.txt. 
-Также в config.txt требуется указать страну в параматре market. 
+Также в config.txt требуется указать страну в параметре market. 
 
 
 The script allows you to get information about the discography of an artist in Spotify by his Spotify ID.
