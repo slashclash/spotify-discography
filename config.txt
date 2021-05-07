@@ -1,0 +1,3 @@
+client_id: ENTER_YOUR_CLIENT_ID
+client_secret: ENTER_YOUR_CLIENT_SECRET
+market: RU
